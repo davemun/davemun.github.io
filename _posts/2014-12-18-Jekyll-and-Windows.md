@@ -12,12 +12,10 @@ You can't.
 ##Long Answer:
 It is technically possible - there are a lot of guides on how to get Jekyll started on Windows - most revolve around using [Cygwin](https://www.cygwin.com/). Here are some links to get you started:
 
-```
 ###Links
 * [Jekyll homepage](http://jekyllrb.com/docs/windows/)
 * [Julian Thilo's Comprehensive Ruby on Windows guide](http://jekyll-windows.juthilo.com/)
 * [RVM on Windows script](http://blog.developwithpassion.com/2012/03/30/installing-rvm-with-cygwin-on-windows/)
-```
 
 There are a multitude of issues for the guide, which as of Dec 2014, ranging from Ruby having [outdated SSL certificates](http://railsapps.github.io/openssl-certificate-verify-failed.html)(and the only fix, RVM, is not really Windows compatible), to compile errors (spoiler: you'll download every Visual Studio version, ever).
 
