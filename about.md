@@ -15,11 +15,11 @@ I like to blog about things such as:
 * Angular.js
 * My archenemy, raw CSS
 
-My contributions can be seen at my [GitHub](http://github.com/davemun).
+My contributions can be seen at my [GitHub](http://github.com/davemun). Some of my more recent projects include a [3D web-conferencing app](http://realfaces.org), the codebase for which you can view [here](http://github.com/realTalkTeam/realTalk), and for which I presented at Hack Reactor Hiring Day, and you can [watch me here](https://www.youtube.com/watch?v=z5C1OVLiDBE)!
 
 ## Contact Me
 
-* [My Email](mailto:mun.dave@gmail.com): mun.dave@gmail.com
+* [My Email](mailto:mun.dave@gmail.com)
 * [LinkedIn](http://linkedin.com/in/davemun)
 * [GitHub](http://github.com/davemun)
 
