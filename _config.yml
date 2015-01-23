@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               Code Canon
 tagline:             'A lean, MEAN, Agile machine'
-description:         'The personal page of Software Engineer Dave Mun.'
+description:         'The personal page of software engineer Dave Mun.'
 url:                 http://davemun.github.io
 baseurl:             /
 paginate:            3
