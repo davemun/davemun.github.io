@@ -19,6 +19,10 @@ My contributions can be seen at my [GitHub](http://github.com/davemun).
 
 ## Contact Me
 
-Don't hesitate to contact me through my email at mun.dave@gmail.com, or through my GitHub page!
+* [My Email](mailto:mun.dave@gmail.com): mun.dave@gmail.com
+* [LinkedIn](http://linkedin.com/in/davemun)
+* [GitHub](http://github.com/davemun)
+
+Don't hesitate to contact me through any of these methods! I love hearing from new people about feedback, questions, or new projects!
 
 Thanks for stopping by!
