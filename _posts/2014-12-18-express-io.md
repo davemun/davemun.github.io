@@ -74,4 +74,4 @@ And then on the client you would emit these events:
     customers:delete
 ```
 
-Scaffolding for me has always been a subtle pain, and I expect to have to wire a lot of connection a lot in the coming weeks. I look forward to using Express.io to slide through with ease!
+Scaffolding for me has always been a subtle pain, and I expect to have to wire a lot of connections in the coming weeks. I look forward to using Express.io to slide through with ease!
